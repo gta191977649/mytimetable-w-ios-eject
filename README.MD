@@ -10,3 +10,6 @@
 4. Also please remember to singing your own apple account in the project setting, because this will generate your own **Provisioning Profiles** and the **Signing Certificate** that you need for running on your real device, if you don't know how to do it, please refer this link: https://ioscodesigning.com/generating-code-signing-files/
 5. After you done all the steps and checks above, you can hit the build button (or short cut **command + r**) to build the release version of the app.
 6. if you want to build this app for your own ios device, please make sure you select the running target of your phone not the simulator.
+# Changelog and Comments
+* Well if you want to see the change log or any thoughts that i've made during the development of this app,please don't hesitate leave any comments in my blog (your advices may make this app better). 
+* Blog post -> https://buncho.moe/archives/app-uts-my-timetable-w-%E5%BC%80%E5%8F%91%E6%84%9F%E6%82%9F
