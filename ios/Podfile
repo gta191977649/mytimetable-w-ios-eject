@@ -1,0 +1,2 @@
+pod 'RNI18n', :path => '../node_modules/react-native-i18n'
+
