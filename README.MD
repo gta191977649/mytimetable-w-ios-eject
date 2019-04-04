@@ -9,4 +9,4 @@
 3. Please ensure your build scheme in xcode is set to **Release** not **Debug** !!! because you don't want the development server jacked in to your app.
 4. Also please remember to singing your own apple account in the project setting, because this will generate your own **Provisioning Profiles** and the **Signing Certificate** that you need for running on your real device, if you don't know how to do it, please refer this link: https://ioscodesigning.com/generating-code-signing-files/
 5. After you done all the steps and checks above, you can hit the build button (or short cut **command + r**) to build the release version of the app.
-6. if you want to build this app for your own ios device, please make sure you select the running target of your phone not the simulator,
+6. if you want to build this app for your own ios device, please make sure you select the running target of your phone not the simulator.
